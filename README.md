@@ -23,3 +23,12 @@
 
 - 百度云：链接: https://pan.baidu.com/s/1ClWN1wnMUqaA-MuDOMWWtg 提取码: x79x
 - 石墨文档（可以直接查看）：https://shimo.im/docs/jt83JQX9W3ccyPHD
+
+===========================================================================
+
+在 zealotCE（ https://github.com/zealotCE/AmericaOpposeAmerica ）工作的基础上，结合 andriasw（ https://github.com/andriasw/AmericaOpposeAmerica ）提供的 OCR 文件，进一步进行人工文字及标点勘误。
+工作进度随缘，暂时仅修改 .md 文件。
+
+进度记录：
+2021-1-23 勘误至 一、不均匀的土地 1.美国制造的疑惑 一节结束
+
